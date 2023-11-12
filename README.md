@@ -11,4 +11,4 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   1. [Securing Data](assignment1.md)
   2. [Securing Systems](assignment2.md)
   3. [Securing Software](assignment3.md)
-  4. Preserving Privacy
+  4. [Preserving Privacy](assignment4.md)
