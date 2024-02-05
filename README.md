@@ -11,3 +11,8 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
 - [Securing Systems](assignments/week2.md)
 - [Securing Software](assignments/week3.md)
 - [Preserving Privacy](assignments/week4.md)
+- [Final Project](https://youtu.be/Y_5yQ3ewpvI)
+
+## Certificate
+
+![Certificate](CS50_Cybersecurity.png)
